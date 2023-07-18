@@ -1,0 +1,74 @@
+HOME PAGE: 
+
+- Turning Vision Into Reality With Code And Design. 
+- As a skilled full-stack developer and ML Enthusiast, I am dedicated to turning ideas into innovative web applications. 
+Explore my latest projects, showcasing my expertise in Web development and ML.
+
+--------------------------------------------------------------
+
+ABOUT PAGE:
+
+- Hey, There
+- I'm Aayush, a web developer, ML Enthusiast and UI/UX designer and with a passion for creating beautiful, functional, 
+and user-centered digital experiences. I am always looking for 
+new and innovative ways to bring my client's visions to life.
+
+- I believe that design is about more than just making things look pretty – it's about solving problems and 
+creating intuitive, enjoyable experiences for users. 
+
+- Whether I'm working on a website, mobile app, or 
+other digital product, I bring my commitment to design excellence and user-centered thinking to 
+every project I work on. I look forward to the opportunity to bring my skills and passion to your next project.
+
+--------------------------------------------------------------
+
+EXPERIENCE: 
+
+Research Intern
+March 2023 | National Institute of Technology, Kurukshetra
+Developed a highly accurate system with an accuracy of 99.8% for detecting potato diseases using VGG16 and VGG19 convolutional NN architectures.
+- Created an interactive web page using React and Node.js to deploy the model.
+- Used Technologies/Libraries - Python, TensorFlow, deep learning frameworks, scikit-image, and model evaluation libraries, React.js, Node.js. 
+
+
+
+--------------------------------------------------------------
+
+EDUCATION:
+
+Bachelor Of Technology In Computer Science
+2021 - Present | National Institute of Technology, Kurukshetra (NITKKR)
+Relevant courses included Data Structures and Algorithms, Software Engineering, and Operating System.
+
+Online Coursework
+2022 - Present | Coursera And Google Cloud Skill Boost
+Completed coursework in advanced topics such as Generative AI, Computer Vision, and Machine 
+Learning Engineering.
+
+--------------------------------------------------------------
+
+PROJECTS PAGE:
+
+- Imagination Trumps Knowledge!
+
+Potato Disease Classification
+Developed a highly accurate system with an accuracy of 99.8% for detecting potato diseases using VGG16 and VGG19 convolutional NN architectures.
+- Created an interactive web page using React and Node.js to deploy the model.
+- Used Technologies/Libraries - Python, TensorFlow, deep learning frameworks, scikit-image, and model evaluation libraries, React.js, Node.js. 
+
+Diabetes Prediction Model
+Developed a Diabetes Prediction system using Python.
+Pre-processed data and applied classifiers on it to create diabetes prediction model.
+Used Libraries - sklearn, pandas, matplotlib, seaborn.
+--------------------------------------------------------------
+
+ARTICLES PAGE:
+
+- Words Can Change The World! 
+
+Will I ever write something that isn't sad
+
+Happy Easter!
+
+Indian Navy Day
+
