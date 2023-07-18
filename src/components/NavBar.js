@@ -2,8 +2,8 @@ import Link from "next/link"
 import React from "react"
 import Logo from "./Logo"
 import { useRouter } from "next/router"
-import { DribbbleIcon, GithubIcon , LinkedInIcon, PinterestIcon } from "./icons"
-
+import { DribbbleIcon, GithubIcon , LinkedInIcon, PinterestIcon, MediumIcon} from "./icons"
+import { motion } from "framer-motion"
 
 
 
@@ -21,7 +21,7 @@ const CustomLink = ({ href, title, className = "" }) => {
             `}>&nbsp;</span>
         </Link>
     )
-}
+};
 
 const NavBar = () => {
     return (
@@ -37,18 +37,41 @@ const NavBar = () => {
             </nav>
 
             <nav className="flex items-center justify-center flex-wrap">
-                <Link href="/" target={"_blank"}>
+                <motion.a href="https://github.com/Aayushkumr" target={"_blank"}
+                whileHover={{y:-2}}
+                whileTap={{scale:0.9}}
+                className="w-6 m-3"
+                >
                     <GithubIcon />
-                </Link>
-                <Link href="/" target={"_blank"}>
+                </motion.a>
+                <motion.a href="https://www.linkedin.com/in/aayush-kumr/" target={"_blank"}
+                whileHover={{y:-2}}
+                whileTap={{scale:0.9}}
+                className="w-6 mx-3"
+                >
                     <LinkedInIcon />
-                </Link>
-                <Link href="/" target={"_blank"}>
+                </motion.a>
+                <motion.a href="https://in.pinterest.com/aayushkumr25" target={"_blank"}
+                whileHover={{y:-2}}
+                whileTap={{scale:0.9}}
+                className="w-6 mx-3" 
+                >
                     <PinterestIcon />
-                </Link>
-                <Link href="/" target={"_blank"}>
+                </motion.a>
+                <motion.a href="https://medium.com/@aayushkumr25" target={"_blank"}
+                whileHover={{y:-2}}
+                whileTap={{scale:0.9}}
+                className="w-6 mx-3" 
+                >
+                    <MediumIcon />
+                </motion.a>
+                <motion.a href="/" target={"_blank"}
+                whileHover={{y:-2}}
+                whileTap={{scale:0.9}}
+                className="w-6 ml-3"
+                >
                     <DribbbleIcon />
-                </Link>
+                </motion.a>
                 
             </nav>
             <div className="absolute left-[50%] top-2 translate-x-[-50%]">
