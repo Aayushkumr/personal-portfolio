@@ -1,9 +1,7 @@
 # Portfolio Website with Nextjs, Tailwind CSS and Framer-motion
 
-This repository contains starter code for Portfolio website created using NextJs. <br />
-
 To checkout my Website click on the following link👇: <br />
-[Nextjs Portfolio Website](notyet) <br />
+[Portfolio Website](notyet) <br />
 
 <h3 align="left">▶ Support me via:</h3><br />
 <p><a href="https://www.buymeacoffee.com/aayushkumrS" target="_blank"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="210" alt="Aayush Kumar" ></img></a></p><br />
