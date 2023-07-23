@@ -137,15 +137,15 @@ const projects = () => {
                                 github="https://github.com/Aayushkumr/diabetes-prediction"
                             />
                         </div>
-    {*<div className='col-span-12'>
-                             Featured Project
+                        {/* <div className='col-span-12'>
+                            Featured Project
                         </div>
                         <div className='col-span-6 sm:col-span-12'>
                             Project-3
-                         </div>
+                        </div>
                         <div className='col-span-6 sm:col-span-12'>
-                             Project-4
-                        </div>*}
+                            Project-4
+                        </div> */}
                     </div>
                 </Layout>
             </main>
