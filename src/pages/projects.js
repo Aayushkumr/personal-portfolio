@@ -7,6 +7,7 @@ import { GithubIcon } from '@/components/icons'
 import project1 from "../../public/images/projects/potato.png";
 import Image from 'next/image'
 import project2 from "../../public/images/projects/Diabetes.jpg";
+import project3 from "../../public/images/projects/project3.png";
 import { motion } from 'framer-motion'
 import TransitionEffect from '@/components/TransitionEffect'
 
@@ -119,20 +120,18 @@ const projects = () => {
                         </div>
                         <div className='col-span-6 h-auto sm:col-span-12'>
                         <Project
-                                title="Potato Disease Classification"
-                                img={project1}
-                                link="https://potato-disease-classifier.vercel.app"
+                                title="To-Do-App Using React-Redux"
+                                img={project3}
+                                link="https://reactredux-todoapp.vercel.app/"
                                 type="Project 1"
-                                github="https://github.com/Aayushkumr/potato-disease-classification"
-                                
+                                github="https://github.com/Aayushkumr/To-Do-App"
                                 />
                         </div>
                         <div className='col-span-6 h-auto sm:col-span-12'>
                         <Project
-                                title="Diabetes Prediction Model
-                                "
+                                title="Diabetes Prediction Model"
                                 img={project2}
-                                link="https://github.com/Aayushkumr/diabetes-prediction"
+                                link="/"
                                 type="Project 2"
                                 github="https://github.com/Aayushkumr/diabetes-prediction"
                             />
@@ -143,9 +142,7 @@ const projects = () => {
                         <div className='col-span-6 sm:col-span-12'>
                             Project-3
                         </div>
-                        <div className='col-span-6 sm:col-span-12'>
-                            Project-4
-                        </div> */}
+                         */}
                     </div>
                 </Layout>
             </main>
