@@ -112,7 +112,7 @@ const projects = () => {
                             - Created an interactive web page using React and Node.js to deploy the model.
                             - Used Technologies/Libraries - Python, TensorFlow, deep learning frameworks, scikit-image, and model evaluation libraries, React.js, Node.js. 
                             "
-                                link="potato-disease-classifier.vercel.app"
+                                link="https://potato-disease-classifier.vercel.app"
                                 type="Featured Project"
                                 github="https://github.com/Aayushkumr/potato-disease-classification"
                             />
@@ -121,7 +121,7 @@ const projects = () => {
                         <Project
                                 title="Potato Disease Classification"
                                 img={project1}
-                                link="potato-disease-classifier.vercel.app"
+                                link="https://potato-disease-classifier.vercel.app"
                                 type="Project 1"
                                 github="https://github.com/Aayushkumr/potato-disease-classification"
                                 
@@ -137,15 +137,15 @@ const projects = () => {
                                 github="https://github.com/Aayushkumr/diabetes-prediction"
                             />
                         </div>
-                        // <div className='col-span-12'>
-                        //     Featured Project
-                        // </div>
-                        // <div className='col-span-6 sm:col-span-12'>
-                        //     Project-3
-                        // </div>
-                        // <div className='col-span-6 sm:col-span-12'>
-                        //     Project-4
-                        // </div>
+    {*<div className='col-span-12'>
+                             Featured Project
+                        </div>
+                        <div className='col-span-6 sm:col-span-12'>
+                            Project-3
+                         </div>
+                        <div className='col-span-6 sm:col-span-12'>
+                             Project-4
+                        </div>*}
                     </div>
                 </Layout>
             </main>
