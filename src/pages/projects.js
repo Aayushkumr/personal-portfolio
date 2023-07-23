@@ -132,7 +132,7 @@ const projects = () => {
                                 title="Diabetes Prediction Model
                                 "
                                 img={project2}
-                                link="/"
+                                link="https://github.com/Aayushkumr/diabetes-prediction"
                                 type="Project 2"
                                 github="https://github.com/Aayushkumr/diabetes-prediction"
                             />
