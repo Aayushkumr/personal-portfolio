@@ -2,7 +2,7 @@
 
 
 To checkout the page click on the following link👇: <br />
-[Portfolio Website](https://portfolio-aayush-kumar.vercel.app/) <br />
+[Portfolio Website](https://aayush-kumar.vercel.app/) <br />
 
 <h3 align="left">▶ Support me via:</h3><br />
 <p><a href="https://www.buymeacoffee.com/aayushkumrS?new=1" target="_blank"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="210" alt="Aayush Kumar" ></img></a></p><br />
