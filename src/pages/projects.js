@@ -112,7 +112,7 @@ const projects = () => {
                             - Created an interactive web page using React and Node.js to deploy the model.
                             - Used Technologies/Libraries - Python, TensorFlow, deep learning frameworks, scikit-image, and model evaluation libraries, React.js, Node.js. 
                             "
-                                link="/"
+                                link="potato-disease-classifier.vercel.app"
                                 type="Featured Project"
                                 github="https://github.com/Aayushkumr/potato-disease-classification"
                             />
