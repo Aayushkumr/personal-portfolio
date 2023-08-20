@@ -8,6 +8,8 @@ import project1 from "../../public/images/projects/potato.png";
 import Image from 'next/image'
 import project2 from "../../public/images/projects/Diabetes.jpg";
 import project3 from "../../public/images/projects/project3.png";
+import spotifyclone from "../../public/images/projects/spotifyclone.png";
+import musicrecommender from "../../public/images/projects/Music-Recommender.png";
 import { motion } from 'framer-motion'
 import TransitionEffect from '@/components/TransitionEffect'
 
@@ -106,6 +108,37 @@ const projects = () => {
                     xl:gap-x-16 lg:gap-x-8 md:gap-y-24 sm:gap-x-0
                     '>
                         <div className='col-span-12'>
+                            <FeaturedProject 
+                                title='Spotify Clone' 
+                                img={spotifyclone} 
+                                summary="Developed a Spotify-inspired app with Stripe payments, Tailwind UI, and Supabase authentication, user validation, and dynamic UI components.
+                                Features Include:- Song upload,Player component, Liked Songs Playlist."
+                                link="https://fs-spotify-clone.vercel.app/"
+                                type="Featured Project"
+                                github="https://github.com/Aayushkumr/spotify-clone"
+                            />
+                        </div>
+                        
+                        <div className='col-span-6 h-auto sm:col-span-12'>
+                        <Project
+                                title="To-Do-App Using React-Redux"
+                                img={project3}
+                                link="https://reactredux-todoapp.vercel.app/"
+                                type="Project 1"
+                                github="https://github.com/Aayushkumr/To-Do-App"
+                                />
+                        </div>
+                        <div className='col-span-6 sm:col-span-12'>
+                            <Project
+                                title="Music Recommender System using Spotify API" 
+                                img={musicrecommender}
+                                link="/"
+                                type="Project 2"
+                                github="https://github.com/Aayushkumr/Music-Recommender-System"
+                            />
+                        </div>
+
+                        <div className='col-span-12'>
                             <FeaturedProject
                                 title="Potato Disease Classification"
                                 img={project1}
@@ -118,31 +151,16 @@ const projects = () => {
                                 github="https://github.com/Aayushkumr/potato-disease-classification"
                             />
                         </div>
-                        <div className='col-span-6 h-auto sm:col-span-12'>
-                        <Project
-                                title="To-Do-App Using React-Redux"
-                                img={project3}
-                                link="https://reactredux-todoapp.vercel.app/"
-                                type="Project 1"
-                                github="https://github.com/Aayushkumr/To-Do-App"
-                                />
-                        </div>
+
                         <div className='col-span-6 h-auto sm:col-span-12'>
                         <Project
                                 title="Diabetes Prediction Model"
                                 img={project2}
                                 link="/"
-                                type="Project 2"
+                                type="Project 3"
                                 github="https://github.com/Aayushkumr/diabetes-prediction"
                             />
                         </div>
-                        {/* <div className='col-span-12'>
-                            Featured Project
-                        </div>
-                        <div className='col-span-6 sm:col-span-12'>
-                            Project-3
-                        </div>
-                         */}
                     </div>
                 </Layout>
             </main>
